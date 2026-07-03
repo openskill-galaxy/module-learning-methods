@@ -1,0 +1,41 @@
+{
+  "id": "mod-learning-methods",
+  "slug": "module-learning-methods",
+  "title": "高效学习方法与知识管理",
+  "subtitle": "面向自学和终身学习者",
+  "description": "面向大学生自学编程者和终身学习者的主动回忆间隔重复费曼学习法错题复盘知识卡片项目化学习刻意练习学习路线与知识管理训练。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "学习方法",
+    "知识管理",
+    "主动回忆",
+    "间隔重复",
+    "费曼学习法",
+    "错题复盘",
+    "学习路线",
+    "个人知识库"
+  ],
+  "estimatedHours": 130,
+  "difficulty": "beginner",
+  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "coverEmoji": "📚",
+  "repoUrl": "https://github.com/openskill-galaxy/module-learning-methods",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 182,
+    "knowledgePoints": 735,
+    "questions": 3500,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 124
+  }
+}

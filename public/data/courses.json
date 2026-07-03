@@ -1,0 +1,520 @@
+[
+  {
+    "id": "lm-course-01",
+    "order": 1,
+    "slug": "Learn入门",
+    "title": "高效学习入门与学习路线",
+    "description": "学习本质、方法分类、学习路线。",
+    "estimatedHours": 4,
+    "difficulty": "easy",
+    "tags": [
+      "高效学习入门与学习路线"
+    ],
+    "lessonIds": [
+      "lm-lesson-001",
+      "lm-lesson-002",
+      "lm-lesson-003",
+      "lm-lesson-004",
+      "lm-lesson-005",
+      "lm-lesson-006",
+      "lm-lesson-007",
+      "lm-lesson-008",
+      "lm-lesson-009",
+      "lm-lesson-010",
+      "lm-lesson-011",
+      "lm-lesson-012",
+      "lm-lesson-013"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握高效学习方法",
+      "能制定学习计划",
+      "能管理知识",
+      "能持续学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "lm-course-02",
+    "order": 2,
+    "slug": "GoalPlan",
+    "title": "学习目标、阶段规划与反馈闭环",
+    "description": "SMART目标、计划制定、反馈机制。",
+    "estimatedHours": 8,
+    "difficulty": "easy",
+    "tags": [
+      "学习目标、阶段规划与反馈闭环"
+    ],
+    "lessonIds": [
+      "lm-lesson-014",
+      "lm-lesson-015",
+      "lm-lesson-016",
+      "lm-lesson-017",
+      "lm-lesson-018",
+      "lm-lesson-019",
+      "lm-lesson-020",
+      "lm-lesson-021",
+      "lm-lesson-022",
+      "lm-lesson-023",
+      "lm-lesson-024",
+      "lm-lesson-025",
+      "lm-lesson-026"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握高效学习方法",
+      "能制定学习计划",
+      "能管理知识",
+      "能持续学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "lm-course-03",
+    "order": 3,
+    "slug": "ActiveRecall",
+    "title": "主动回忆与自测机制",
+    "description": "回忆法、自测、模拟考试、Flashcard。",
+    "estimatedHours": 8,
+    "difficulty": "medium",
+    "tags": [
+      "主动回忆与自测机制"
+    ],
+    "lessonIds": [
+      "lm-lesson-027",
+      "lm-lesson-028",
+      "lm-lesson-029",
+      "lm-lesson-030",
+      "lm-lesson-031",
+      "lm-lesson-032",
+      "lm-lesson-033",
+      "lm-lesson-034",
+      "lm-lesson-035",
+      "lm-lesson-036",
+      "lm-lesson-037",
+      "lm-lesson-038",
+      "lm-lesson-039"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握高效学习方法",
+      "能制定学习计划",
+      "能管理知识",
+      "能持续学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "lm-course-04",
+    "order": 4,
+    "slug": "SpacedRepetition",
+    "title": "间隔重复与长期记忆",
+    "description": "遗忘曲线、复习策略、Anki/间隔表。",
+    "estimatedHours": 8,
+    "difficulty": "medium",
+    "tags": [
+      "间隔重复与长期记忆"
+    ],
+    "lessonIds": [
+      "lm-lesson-040",
+      "lm-lesson-041",
+      "lm-lesson-042",
+      "lm-lesson-043",
+      "lm-lesson-044",
+      "lm-lesson-045",
+      "lm-lesson-046",
+      "lm-lesson-047",
+      "lm-lesson-048",
+      "lm-lesson-049",
+      "lm-lesson-050",
+      "lm-lesson-051",
+      "lm-lesson-052"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握高效学习方法",
+      "能制定学习计划",
+      "能管理知识",
+      "能持续学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "lm-course-05",
+    "order": 5,
+    "slug": "Feynman",
+    "title": "费曼学习法与输出倒逼输入",
+    "description": "费曼技巧、教给别人、简化表达。",
+    "estimatedHours": 6,
+    "difficulty": "medium",
+    "tags": [
+      "费曼学习法与输出倒逼输入"
+    ],
+    "lessonIds": [
+      "lm-lesson-053",
+      "lm-lesson-054",
+      "lm-lesson-055",
+      "lm-lesson-056",
+      "lm-lesson-057",
+      "lm-lesson-058",
+      "lm-lesson-059",
+      "lm-lesson-060",
+      "lm-lesson-061",
+      "lm-lesson-062",
+      "lm-lesson-063",
+      "lm-lesson-064",
+      "lm-lesson-065"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握高效学习方法",
+      "能制定学习计划",
+      "能管理知识",
+      "能持续学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "lm-course-06",
+    "order": 6,
+    "slug": "NoteSystem",
+    "title": "康奈尔笔记、卡片笔记与知识整理",
+    "description": "Cornell笔记、Zettelkasten、双链笔记。",
+    "estimatedHours": 10,
+    "difficulty": "medium",
+    "tags": [
+      "康奈尔笔记、卡片笔记与知识整理"
+    ],
+    "lessonIds": [
+      "lm-lesson-066",
+      "lm-lesson-067",
+      "lm-lesson-068",
+      "lm-lesson-069",
+      "lm-lesson-070",
+      "lm-lesson-071",
+      "lm-lesson-072",
+      "lm-lesson-073",
+      "lm-lesson-074",
+      "lm-lesson-075",
+      "lm-lesson-076",
+      "lm-lesson-077",
+      "lm-lesson-078"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握高效学习方法",
+      "能制定学习计划",
+      "能管理知识",
+      "能持续学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "lm-course-07",
+    "order": 7,
+    "slug": "ErrorNotebook",
+    "title": "错题本、复盘表与问题清单",
+    "description": "错因分析、知识盲点、复盘频率。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "错题本、复盘表与问题清单"
+    ],
+    "lessonIds": [
+      "lm-lesson-079",
+      "lm-lesson-080",
+      "lm-lesson-081",
+      "lm-lesson-082",
+      "lm-lesson-083",
+      "lm-lesson-084",
+      "lm-lesson-085",
+      "lm-lesson-086",
+      "lm-lesson-087",
+      "lm-lesson-088",
+      "lm-lesson-089",
+      "lm-lesson-090",
+      "lm-lesson-091"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握高效学习方法",
+      "能制定学习计划",
+      "能管理知识",
+      "能持续学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "lm-course-08",
+    "order": 8,
+    "slug": "ProjectBased",
+    "title": "项目化学习与作品驱动",
+    "description": "项目式学习、作品驱动、实践中学。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "项目化学习与作品驱动"
+    ],
+    "lessonIds": [
+      "lm-lesson-092",
+      "lm-lesson-093",
+      "lm-lesson-094",
+      "lm-lesson-095",
+      "lm-lesson-096",
+      "lm-lesson-097",
+      "lm-lesson-098",
+      "lm-lesson-099",
+      "lm-lesson-100",
+      "lm-lesson-101",
+      "lm-lesson-102",
+      "lm-lesson-103",
+      "lm-lesson-104"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握高效学习方法",
+      "能制定学习计划",
+      "能管理知识",
+      "能持续学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "lm-course-09",
+    "order": 9,
+    "slug": "DeliberatePractice",
+    "title": "刻意练习与技能分解",
+    "description": "技能拆解、即时反馈、挑战区练习。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "刻意练习与技能分解"
+    ],
+    "lessonIds": [
+      "lm-lesson-105",
+      "lm-lesson-106",
+      "lm-lesson-107",
+      "lm-lesson-108",
+      "lm-lesson-109",
+      "lm-lesson-110",
+      "lm-lesson-111",
+      "lm-lesson-112",
+      "lm-lesson-113",
+      "lm-lesson-114",
+      "lm-lesson-115",
+      "lm-lesson-116",
+      "lm-lesson-117"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握高效学习方法",
+      "能制定学习计划",
+      "能管理知识",
+      "能持续学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "lm-course-10",
+    "order": 10,
+    "slug": "ReadBalanced",
+    "title": "阅读、听课、刷题与实践的平衡",
+    "description": "输入输出平衡、时间分配、效率最大化。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "阅读、听课、刷题与实践的平衡"
+    ],
+    "lessonIds": [
+      "lm-lesson-118",
+      "lm-lesson-119",
+      "lm-lesson-120",
+      "lm-lesson-121",
+      "lm-lesson-122",
+      "lm-lesson-123",
+      "lm-lesson-124",
+      "lm-lesson-125",
+      "lm-lesson-126",
+      "lm-lesson-127",
+      "lm-lesson-128",
+      "lm-lesson-129",
+      "lm-lesson-130"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握高效学习方法",
+      "能制定学习计划",
+      "能管理知识",
+      "能持续学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "lm-course-11",
+    "order": 11,
+    "slug": "TechRoute",
+    "title": "技术学习路线与跨学科学习",
+    "description": "学习路线图、前置知识、跨领域迁移。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "技术学习路线与跨学科学习"
+    ],
+    "lessonIds": [
+      "lm-lesson-131",
+      "lm-lesson-132",
+      "lm-lesson-133",
+      "lm-lesson-134",
+      "lm-lesson-135",
+      "lm-lesson-136",
+      "lm-lesson-137",
+      "lm-lesson-138",
+      "lm-lesson-139",
+      "lm-lesson-140",
+      "lm-lesson-141",
+      "lm-lesson-142",
+      "lm-lesson-143"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握高效学习方法",
+      "能制定学习计划",
+      "能管理知识",
+      "能持续学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "lm-course-12",
+    "order": 12,
+    "slug": "KnowledgeTools",
+    "title": "知识管理工具与个人知识库",
+    "description": "Notion/Obsidian、卡片系统、知识库建设。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "知识管理工具与个人知识库"
+    ],
+    "lessonIds": [
+      "lm-lesson-144",
+      "lm-lesson-145",
+      "lm-lesson-146",
+      "lm-lesson-147",
+      "lm-lesson-148",
+      "lm-lesson-149",
+      "lm-lesson-150",
+      "lm-lesson-151",
+      "lm-lesson-152",
+      "lm-lesson-153",
+      "lm-lesson-154",
+      "lm-lesson-155",
+      "lm-lesson-156"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握高效学习方法",
+      "能制定学习计划",
+      "能管理知识",
+      "能持续学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "lm-course-13",
+    "order": 13,
+    "slug": "AttentionEnergy",
+    "title": "学习拖延、注意力与情绪管理",
+    "description": "拖延原因、番茄钟、注意力修复、情绪调节。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "学习拖延、注意力与情绪管理"
+    ],
+    "lessonIds": [
+      "lm-lesson-157",
+      "lm-lesson-158",
+      "lm-lesson-159",
+      "lm-lesson-160",
+      "lm-lesson-161",
+      "lm-lesson-162",
+      "lm-lesson-163",
+      "lm-lesson-164",
+      "lm-lesson-165",
+      "lm-lesson-166",
+      "lm-lesson-167",
+      "lm-lesson-168",
+      "lm-lesson-169"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握高效学习方法",
+      "能制定学习计划",
+      "能管理知识",
+      "能持续学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "lm-course-14",
+    "order": 14,
+    "slug": "GrowthArchive",
+    "title": "综合学习系统、长期复盘与成长档案",
+    "description": "终身学习系统、复盘体系、成长档案。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "综合学习系统、长期复盘与成长档案"
+    ],
+    "lessonIds": [
+      "lm-lesson-170",
+      "lm-lesson-171",
+      "lm-lesson-172",
+      "lm-lesson-173",
+      "lm-lesson-174",
+      "lm-lesson-175",
+      "lm-lesson-176",
+      "lm-lesson-177",
+      "lm-lesson-178",
+      "lm-lesson-179",
+      "lm-lesson-180",
+      "lm-lesson-181",
+      "lm-lesson-182"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握高效学习方法",
+      "能制定学习计划",
+      "能管理知识",
+      "能持续学习"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  }
+]
